@@ -11,7 +11,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:version>937</sparkle:version>
       <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.6.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/orbits-tec/Appz-Page/releases/download/v2.0.6-937/Appz.pkg" sparkle:edSignature="aXGUy0UX23oBGsSDtbGftHznYm14oZWFPemuu1e2qXbQbnPmlPF3tjzRXoWowvH9zZKyyYQ9dWJ9fyxxH1yQAg==" length="3645682" type="application/octet-stream"></enclosure>
+      <enclosure url="https://github.com/orbits-tec/Appz-Site/releases/download/v2.0.6-937/Appz.pkg" sparkle:edSignature="aXGUy0UX23oBGsSDtbGftHznYm14oZWFPemuu1e2qXbQbnPmlPF3tjzRXoWowvH9zZKyyYQ9dWJ9fyxxH1yQAg==" length="3645682" type="application/octet-stream"></enclosure>
     </item>
   </channel>
 </rss>
