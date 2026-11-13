@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <link>https://appz.orbits.tec.br/</link>
     <description>Appz Direct updates</description>
     <item>
-      <title>Appz Direct 2.0.6 (937)</title>
-      <pubDate>Tue, 10 Nov 2026 11:13:32 +0000</pubDate>
-      <sparkle:version>937</sparkle:version>
+      <title>Appz Direct 2.0.6 (938)</title>
+      <pubDate>Fri, 13 Nov 2026 12:10:47 +0000</pubDate>
+      <sparkle:version>938</sparkle:version>
       <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.6.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/orbits-tec/Appz-Site/releases/download/v2.0.6-937/Appz.pkg" sparkle:edSignature="aXGUy0UX23oBGsSDtbGftHznYm14oZWFPemuu1e2qXbQbnPmlPF3tjzRXoWowvH9zZKyyYQ9dWJ9fyxxH1yQAg==" length="3645682" type="application/octet-stream"></enclosure>
+      <enclosure url="https://github.com/orbits-tec/Appz-Site/releases/download/v2.0.6-938/Appz.pkg" sparkle:edSignature="upZ4kWf1xHSorbt4BGWOpLdStBK0bk060atiqXcba6CRNAj4SLoPdRWF5O6/HEl+Skay4GiPaCjuPVtc+Jw+CA==" length="3656926" type="application/octet-stream"></enclosure>
     </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 1Epk/59hf1nePQJEB4wx0TuKK1nIB0PJyf2+2AZnKdp0wXPx9vhj0GFPyqgGihF64IDYp5VVVe3+2pFEMzsQBg==
+edSignature: iXGRco1FankoxuTbzy7rAoiZhfDNoROukAnw65RJBsFPH5KiRfNXDesnK0oS+SfSt0aYu4CNsApi0fQCC3nLBw==
 length: 1125
 -->
